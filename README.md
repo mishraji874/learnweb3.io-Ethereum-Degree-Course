@@ -42,25 +42,25 @@
 
 **Freshman 🚀 9 Lessons**
 
-- [How to get started with programming?](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/how-to-get-started-with-programming/)
-- [What even is a blockchain?](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/what-even-is-a-blockchain/)
-- [What is Web3?](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/what-is-web3/)
-- [What is Ethereum? ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/what-is-ethereum/)
-- [Setting up a crypto wallet](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/setting-up-a-crypto-wallet/)
-- [Introduction to Solidity ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/introduction-to-solidity/)
-- [Build your first dApp on Ethereum ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-first-d-app-on-ethereum/) 
+- [How to get started with programming?](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/how-to-get-started-with-programming/) ✅
+- [What even is a blockchain?](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/what-even-is-a-blockchain/) ✅
+- [What is Web3?](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/what-is-web3/) ✅
+- [What is Ethereum? ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/what-is-ethereum/) ✅
+- [Setting up a crypto wallet](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/setting-up-a-crypto-wallet/) ✅
+- [Introduction to Solidity ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/introduction-to-solidity/) ✅
+- [Build your first dApp on Ethereum ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-first-d-app-on-ethereum/) ✅
   - [Source Code](https://github.com/mishraji874/learnweb3.io-Ethereum-Degree-Course/tree/main/build-your-first-dapp-on-ethereum) 
   - [Etherscan Deployed Contract](https://sepolia.etherscan.io/address/0xAE78706F961f42f3503B14B5B1E4f1f4e0A7D751)
-- [Build your own cryptocurrency on Ethereum ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-own-cryptocurrency-on-ethereum/) 
+- [Build your own cryptocurrency on Ethereum ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-own-cryptocurrency-on-ethereum/) ✅
   - [Source Code](https://github.com/mishraji874/learnweb3.io-Ethereum-Degree-Course/blob/main/build-your-own-cryptocurrency-on-ethereum/LW3Token.sol) 
   - [Etherscan Deployed Contract](https://sepolia.etherscan.io/address/0x7259D66C4d5148e4f509f80Bc5b855Be53B8ce2D)
-- [Build your own basic NFT contract on Ethereum ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-own-basic-nft-contract-on-ethereum/) 
+- [Build your own basic NFT contract on Ethereum ](https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-own-basic-nft-contract-on-ethereum/) ✅
   - [Source Code](https://github.com/mishraji874/learnweb3.io-Ethereum-Degree-Course/blob/main/build-your-own-basic-nft-contract/src/NFTee.sol) 
   - [Etherscan Deployed Contract](https://sepolia.etherscan.io/address/0xF611adA1f67fca9751cFB3a23cD41bf9b657aaFd)
 
 **Sophomore 🏕️ 12 Lessons**
 
-- Intro to React and Next.js
+- [Intro to React and Next.js](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/intro-to-react-and-next-js/) ✅
 - What is Gas, and why is it needed?
 - What is mining, and why is it done?
 - How does Proof of Work work?

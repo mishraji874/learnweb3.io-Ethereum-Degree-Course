@@ -61,13 +61,13 @@
 **Sophomore 🏕️ 12 Lessons**
 
 - [Intro to React and Next.js](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/intro-to-react-and-next-js/) ✅
-- What is Gas, and why is it needed?
-- What is mining, and why is it done?
-- How does Proof of Work work?
-- How does Proof of Stake work?
-- Demystifying the Ethereum Virtual Machine (EVM)
-- Digging deeper into Solidity's syntax
-- Providers, Signers, ABIs, and Token Approval Flow
+- [What is Gas, and why is it needed?](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/what-is-gas-and-why-is-it-needed/) ✅
+- [What is mining, and why is it done?](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/what-is-mining-and-why-is-it-done/) ✅
+- [How does Proof of Work work?](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/how-does-proof-of-work-work/) ✅
+- [How does Proof of Stake work?](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/how-does-proof-of-stake-work/) ✅
+- [Demystifying the Ethereum Virtual Machine (EVM)](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/demystifying-the-ethereum-virtual-machine-evm/) ✅
+- [Digging deeper into Solidity's syntax](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/digging-deeper-into-soliditys-syntax/) ✅
+- [Providers, Signers, ABIs, and Token Approval Flow](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/providers-signers-abis-and-token-approval-flow/) ✅
 - Build an NFT collection with a whitelist using Foundry and Solidity
 - Build an NFT-powered fully on-chain DAO to invest in NFT collections as a group
 - A deep dive into Automated Market Maker Decentralized Exchanges (Uniswap v1)

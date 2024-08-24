@@ -68,7 +68,11 @@
 - [Demystifying the Ethereum Virtual Machine (EVM)](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/demystifying-the-ethereum-virtual-machine-evm/) ✅
 - [Digging deeper into Solidity's syntax](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/digging-deeper-into-soliditys-syntax/) ✅
 - [Providers, Signers, ABIs, and Token Approval Flow](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/providers-signers-abis-and-token-approval-flow/) ✅
-- Build an NFT collection with a whitelist using Foundry and Solidity
+- [Build an NFT collection with a whitelist using Foundry and Solidity](https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/build-an-nft-collection-with-a-whitelist-using-foundry-and-solidity/) ✅
+  - [Whitelist Contract Source Code](https://github.com/mishraji874/learnweb3.io-Ethereum-Degree-Course/blob/main/build-an-nft-collection-with-whitelist-using-foundry-and-solidity/Whitelist.sol)
+  - [Whitelist Deployed Contract](https://sepolia.etherscan.io/address/0x4b8e0bd9c56d391176c0c04e30c97e0bb90fde28#code)
+  - [NFT Contract Source Code](https://github.com/mishraji874/learnweb3.io-Ethereum-Degree-Course/blob/main/build-an-nft-collection-with-whitelist-using-foundry-and-solidity/CryptoDevs.sol)
+  - [NFT Deployed Contract](https://sepolia.etherscan.io/address/0xa1649bfb46945ef7aedd882eba51e93119448d7f)
 - Build an NFT-powered fully on-chain DAO to invest in NFT collections as a group
 - A deep dive into Automated Market Maker Decentralized Exchanges (Uniswap v1)
 - Build your own decentralized exchange like Uniswap v1

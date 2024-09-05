@@ -1,3 +1,0 @@
-[submodule "build-your-own-decentralized-exchange-like-uniswap-v1/lib/forge-std"]
-	path = build-your-own-decentralized-exchange-like-uniswap-v1/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std

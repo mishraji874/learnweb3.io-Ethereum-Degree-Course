@@ -77,8 +77,10 @@
   - [CryptoDevsNFT Deployed Contract](https://sepolia.etherscan.io/address/0x4c66496356E70E1D4B668534c03Fb3729Ad4F8B4)
   - [CryptoDevsDAO Deployed Contract](https://sepolia.etherscan.io/address/0x5fAf508cD6DC8F07B9CB7B574c0913BeA6fE0688)
   - [FakeNFTMarketplace Deployed Contract](https://sepolia.etherscan.io/address/0xc494f8C8112827A0d0FC7B8c0fC044a904C704e6)
-- A deep dive into Automated Market Maker Decentralized Exchanges (Uniswap v1)
-- Build your own decentralized exchange like Uniswap v1
+- A deep dive into Automated Market Maker Decentralized Exchanges (Uniswap v1) ✅
+- Build your own decentralized exchange like Uniswap v1 ✅
+  - [Token Deployed Contract](https://sepolia.etherscan.io/address/0x9e46da0f9b7318381f3831f42e73c009560406e4)
+  - [Exchange Deployed Contract](https://sepolia.etherscan.io/address/0xdd805c47a619029fecffd5a657c2206c1cb4d6be)
 
 **Junior 👷 8 Lessons**
 

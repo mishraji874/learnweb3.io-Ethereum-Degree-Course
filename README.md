@@ -85,8 +85,8 @@
 **Junior 👷 8 Lessons**
 
 - [What is a Layer 2 blockchain?](https://learnweb3.io/degrees/ethereum-developer-degree/junior/what-is-a-layer-2-blockchain/) ✅
-- [What is ENS and how to integrate into your DApp](https://learnweb3.io/degrees/ethereum-developer-degree/junior/what-is-ens-and-how-to-integrate-into-your-d-app/) 
-- Testing smart contracts on a local blockchain node using Foundry
+- [What is ENS and how to integrate into your DApp](https://learnweb3.io/degrees/ethereum-developer-degree/junior/what-is-ens-and-how-to-integrate-into-your-d-app/) ✅
+- [Testing smart contracts on a local blockchain node using Foundry](https://learnweb3.io/courses/junior/testing-smart-contracts-on-a-local-blockchain-node-using-foundry/) ✅
 - Introduction to IPFS: The InterPlanetary File System
 - Build your own NFT collection with metadata stored on IPFS
 - User-owned data profiles using Ceramic Network

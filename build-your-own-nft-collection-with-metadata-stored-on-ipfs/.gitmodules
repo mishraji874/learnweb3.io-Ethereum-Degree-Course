@@ -1,3 +1,6 @@
 [submodule "build-your-own-nft-collection-with-metadata-stored-on-ipfs/lib/forge-std"]
 	path = build-your-own-nft-collection-with-metadata-stored-on-ipfs/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts

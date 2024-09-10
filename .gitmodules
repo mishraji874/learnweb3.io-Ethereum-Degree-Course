@@ -1,0 +1,3 @@
+[submodule "testing-smart-contracts-on-a-local-blockchain-node-using-foundry/lib/forge-std"]
+	path = testing-smart-contracts-on-a-local-blockchain-node-using-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

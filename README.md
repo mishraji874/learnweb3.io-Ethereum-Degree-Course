@@ -89,7 +89,7 @@
 - [Testing smart contracts on a local blockchain node using Foundry](https://learnweb3.io/courses/junior/testing-smart-contracts-on-a-local-blockchain-node-using-foundry/) ✅
 - [Introduction to IPFS: The InterPlanetary File System](https://learnweb3.io/courses/junior/introduction-to-ipfs-the-inter-planetary-file-system/) ✅
 - [Build your own NFT collection with metadata stored on IPFS](https://learnweb3.io/courses/junior/build-your-own-nft-collection-with-metadata-stored-on-ipfs/) ✅
-- User-owned data profiles using Ceramic Network
+- [User-owned data profiles using Ceramic Network](https://learnweb3.io/degrees/ethereum-developer-degree/junior/user-owned-data-profiles-using-ceramic-network/) ✅
 - Secure on-chain randomness using Chainlink VRFs
 - Indexing data using The Graph's Indexer
 

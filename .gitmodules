@@ -1,0 +1,3 @@
+[submodule "secure-on-chain-randomness-using-chainlink-vrfs/lib/forge-std"]
+	path = secure-on-chain-randomness-using-chainlink-vrfs/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

@@ -95,8 +95,8 @@
 
 **Senior 😎 13 Lessons**
 
-- How to create Merkle Trees for airdrops
-- How Ethereum nodes store data and executes smart contracts
+- [How to create Merkle Trees for airdrops](https://learnweb3.io/degrees/ethereum-developer-degree/senior/how-to-create-merkle-trees-for-airdrops/) ✅
+- [How Ethereum nodes store data and executes smart contracts](https://learnweb3.io/degrees/ethereum-developer-degree/senior/how-ethereum-nodes-store-data-and-executes-smart-contracts/) ✅
 - Borrow millions without collateral from Aave using Flash Loans
 - The bug which cost Ethereum $60 million dollars: Re-entrancy
 - Access private data in smart contracts

@@ -1,3 +1,0 @@
-[submodule "private-data/lib/forge-std"]
-	path = private-data/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std

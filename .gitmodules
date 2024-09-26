@@ -4,3 +4,6 @@
 [submodule "flash-loans/lib/openzeppelin-contracts"]
 	path = flash-loans/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "flash-loans/lib/aave-v3-core"]
+	path = flash-loans/lib/aave-v3-core
+	url = https://github.com/aave/aave-v3-core

@@ -99,7 +99,7 @@
 - [How Ethereum nodes store data and executes smart contracts](https://learnweb3.io/degrees/ethereum-developer-degree/senior/how-ethereum-nodes-store-data-and-executes-smart-contracts/) ✅
 - [Borrow millions without collateral from Aave using Flash Loans](https://learnweb3.io/degrees/ethereum-developer-degree/senior/borrow-millions-without-collateral-from-aave-using-flash-loans/) ✅
 - [The bug which cost Ethereum $60 million dollars: Re-entrancy](https://learnweb3.io/degrees/ethereum-developer-degree/senior/the-bug-which-cost-ethereum-60-million-dollars-re-entrancy/) ✅
-- Access private data in smart contracts
+- [Access private data in smart contracts](https://learnweb3.io/degrees/ethereum-developer-degree/senior/access-private-data-in-smart-contracts/) ✅
 - Run code from other contracts inside your own using delegatecall
 - Generating random numbers on-chain
 - Executing a denial of service on a smart contract

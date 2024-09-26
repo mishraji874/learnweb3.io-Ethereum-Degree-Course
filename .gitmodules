@@ -1,9 +1,0 @@
-[submodule "flash-loans/lib/forge-std"]
-	path = flash-loans/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "flash-loans/lib/openzeppelin-contracts"]
-	path = flash-loans/lib/openzeppelin-contracts
-	url = https://github.com/openzeppelin/openzeppelin-contracts
-[submodule "flash-loans/lib/aave-v3-core"]
-	path = flash-loans/lib/aave-v3-core
-	url = https://github.com/aave/aave-v3-core

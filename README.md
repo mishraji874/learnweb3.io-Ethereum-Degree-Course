@@ -103,7 +103,7 @@
 - [Run code from other contracts inside your own using delegatecall](https://learnweb3.io/degrees/ethereum-developer-degree/senior/run-code-from-other-contracts-inside-your-own-using-delegatecall/) ✅
 - [Generating random numbers on-chain](https://learnweb3.io/degrees/ethereum-developer-degree/senior/generating-random-numbers-on-chain/) ✅
 - [Executing a denial of service on a smart contract](https://learnweb3.io/degrees/ethereum-developer-degree/senior/executing-a-denial-of-service-on-a-smart-contract/) ✅
-- NEVER use tx.origin again
+- [NEVER use tx.origin again](https://learnweb3.io/degrees/ethereum-developer-degree/senior/never-use-tx-origin-again/) ✅
 - Identifying genuine-looking contracts which are actually malicious
 - Optimize gas in your Solidity code
 - Using metatransaction to pay for your users' gas

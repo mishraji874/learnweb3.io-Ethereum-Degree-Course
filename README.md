@@ -101,7 +101,7 @@
 - [The bug which cost Ethereum $60 million dollars: Re-entrancy](https://learnweb3.io/degrees/ethereum-developer-degree/senior/the-bug-which-cost-ethereum-60-million-dollars-re-entrancy/) ✅
 - [Access private data in smart contracts](https://learnweb3.io/degrees/ethereum-developer-degree/senior/access-private-data-in-smart-contracts/) ✅
 - [Run code from other contracts inside your own using delegatecall](https://learnweb3.io/degrees/ethereum-developer-degree/senior/run-code-from-other-contracts-inside-your-own-using-delegatecall/) ✅
-- Generating random numbers on-chain
+- [Generating random numbers on-chain](https://learnweb3.io/degrees/ethereum-developer-degree/senior/generating-random-numbers-on-chain/) ✅
 - Executing a denial of service on a smart contract
 - NEVER use tx.origin again
 - Identifying genuine-looking contracts which are actually malicious

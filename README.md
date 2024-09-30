@@ -107,7 +107,7 @@
 - [Identifying genuine-looking contracts which are actually malicious](https://learnweb3.io/degrees/ethereum-developer-degree/senior/identifying-genuine-looking-contracts-which-are-actually-malicious/) ✅
 - [Optimize gas in your Solidity code](https://learnweb3.io/degrees/ethereum-developer-degree/senior/optimize-gas-in-your-solidity-code/) ✅
 - [Using metatransaction to pay for your users' gas](https://learnweb3.io/degrees/ethereum-developer-degree/senior/using-metatransaction-to-pay-for-your-users-gas/) ✅
-- Build your own MEV searcher using Flashbots
+- [Build your own MEV searcher using Flashbots](https://learnweb3.io/degrees/ethereum-developer-degree/senior/build-your-own-mev-searcher-using-flashbots/) ✅
 
 ### About
 
